@@ -19,7 +19,8 @@ evAdresi="yurt"
 3. Bir değişken asla sayı ile başlamaz fakat sayı ile bitebilir.
 
 Örnek: 12numara="okulNo" ->   Yanlış
-       numara12="okulNo" ->   Doğru
+
+ numara12="okulNo" ->   Doğru
 
 5. Değişken ismi birden fazla kelimeden oluşuyorsa kelimeleri ayırmak için alt çizgi (_) sembolü kullanılmalıdır. Ayrıca, Kelimeleri ayırmadan da ikinci kelimenin ve arda gelen tüm kelimelerin ilk harfi büyük olacak şekilde de yazılabilir. Araya boşluk konularak ayırma işlemi yaparsak eğer hatayla karşılaşırız ve kodumuz çalışmaz.
 
