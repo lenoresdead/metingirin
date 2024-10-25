@@ -1,2 +1,2 @@
-# metingirin
+# metinegirin
 htaknşoerın
