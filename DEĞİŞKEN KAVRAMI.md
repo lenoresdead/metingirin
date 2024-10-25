@@ -22,12 +22,9 @@ evAdresi="yurt"
 5. Değişken ismi birden fazla kelimeden oluşuyorsa kelimeleri ayırmak için alt çizgi (_) sembolü kullanılmalıdır. Ayrıca, Kelimeleri ayırmadan da ikinci kelimenin ve arda gelen tüm kelimelerin ilk harfi büyük olacak şekilde de yazılabilir. Araya boşluk konularak ayırma işlemi yaparsak eğer hatayla karşılaşırız ve kodumuz çalışmaz.
 
 Örnek:
-Yanlış Kullanım:
-meyve adi="Elma"
+meyve adi="Elma" -> Yanlış
 
-Doğru Kullanım:
-
-meyve_adi="Elma"
+meyve_adi="Elma" -> Doğru
 
 meyveAdi="Elma"
 
