@@ -65,6 +65,7 @@ Ondalık sayı (float): Ondalıklı veya gerçel sayıları temsil eder.
 
 Örnek:
 sayi=10.5
+
 Not: Ondalıklı ifadeleri tanımlarken ondalık noktasını kullanmalıyız, virgül kullanılmaz.
 
 Bool: Doğru ve yanlış ifadelerin tanımlanmasında kullanılır. Bu veri tipinin alabileceği 2 farklı değer vardır: True; eylemin gerçekleştirildiğini, False ise gerçekleştirilmediğini analtır.
