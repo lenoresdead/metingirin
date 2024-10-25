@@ -56,6 +56,7 @@ E=14
 
 # Türler
 Değişkenlerin farklı türleri vardır:
+
 Tamsayı (integer): Tam sayıların verilerini temsil eder.
 
 Örnek:
