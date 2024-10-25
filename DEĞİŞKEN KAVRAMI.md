@@ -39,6 +39,7 @@ for=[1,2,3,4]
 6. Değişken isimlerinde Türkçe karakter kullanılmamalıdır.
    
 Örnek:
+
 gökçen=10 -> Yanlış
 
 gokcen=10 -> Doğru
