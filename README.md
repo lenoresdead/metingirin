@@ -18,15 +18,10 @@ sayi = 10
 isim = "Ali"
 # Türler
 Değişkenlerin farklı türleri vardır:
-Tamsayı (integer): Tam sayılar.
-Ondalık sayı (float): Kesirli sayılar.
-Metin (string): Karakter dizileri.
-Boolean: Doğru veya yanlış değerleri.
-# Değişkenin Kullanımı
-Değişkenler tanımlandıktan sonra, program içerisinde kullanılabilir ve değerleri değiştirilebilir:
-python
-sayi = 10
-sayi = sayi + 5  # sayi şimdi 15
+Tamsayı (integer): Tam sayıların verilerini temsil eder.
+Ondalık sayı (float): Ondalıklı veya gerçel sayıları temsil eder.
+Bool: Doğru ve yanlış ifadelerin tanımlanmasında kullanılır. Bu veri tipinin alabileceği 2 farklı değer vardır: True; eylemin gerçekleştirildiğini, False ise gerçekleştirilmediğini analtır.
+String: Karaktersel veya metinsel verileri ifade eder. Bu veriler tanımlanırken çift tırnak sembolü içinde yazarak tanımlanır.
 
 
 
