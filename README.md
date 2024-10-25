@@ -1,2 +1,1 @@
-# degıskenler
-annem haklıydı ben batman değilim ruhsal sorunları olan bir ucubeyim:(
+behsbhebbeb 83838383838388383
