@@ -11,7 +11,9 @@ Python'da değişken oluştururken hata almamak ve doğru bir şekilde tanımlam
 1. Değişkene veri atama işlemi yapmak istersek değişken yazıp eşittir kullanmamız gerekir.
 
 Örnek: degisken="sayidegeri"
+
 x=10
+
 evAdresi="yurt"
 
 3. Bir değişken asla sayı ile başlamaz fakat sayı ile bitebilir.
