@@ -4,6 +4,8 @@ Yazılım dilinde değişken, bir değer saklamak için kullanılan bir isimlend
 
 #  Değişken Tanımlama
 Python'da değişken oluştururken hata almamak ve doğru bir şekilde tanımlama işlemi yapabilmek için bazı önemli kurallar vardır.
+x=10
+evAdresi="yurt"
 
 # Kullanım
 Değişkenler, program içerisinde veri tutmak, hesaplamalar yapmak ve sonuçları saklamak için kullanılır. Örneğin, bir kullanıcının girdiği sayıyı saklamak için bir değişken oluşturabilirsiniz. Değişkenler, programlama dillerinde verileri depolamamıza olanak sağlayan yapılardır. Örneğin; bir isim, sayı veya herhangi bilgiyi Python'da depolamak istiyorsak değişken oluşturmamız ve istenilen veriyi değişkende tanımlamamız gereklidir. Tabii ki değişkenleri oluşturabilmemiz için yazım kurallarına dikkat etmemiz gerekiyor.
@@ -17,12 +19,17 @@ Bir değişken asla sayı ile başlamaz fakat sayı ile bitebilir.
 # Türler
 Değişkenlerin farklı türleri vardır:
 Tamsayı (integer): Tam sayıların verilerini temsil eder.
+sayi=49
 
 Ondalık sayı (float): Ondalıklı veya gerçel sayıları temsil eder.
+sayi=10.5
 
 Bool: Doğru ve yanlış ifadelerin tanımlanmasında kullanılır. Bu veri tipinin alabileceği 2 farklı değer vardır: True; eylemin gerçekleştirildiğini, False ise gerçekleştirilmediğini analtır.
 
+kapıAcıkmı=False
+
 String: Karaktersel veya metinsel verileri ifade eder. Bu veriler tanımlanırken çift tırnak sembolü içinde yazarak tanımlanır.
+isim="sise"
 
 
 
