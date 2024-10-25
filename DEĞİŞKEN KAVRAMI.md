@@ -80,6 +80,8 @@ String: Karaktersel veya metinsel verileri ifade eder. Bu veriler tanımlanırke
 Örnek:
 isim="sise"
 
+Kaynakça: Yılmaz ALACA ve Emine YALÇIN, Görüntü İşleme
+ChatGPT
 
 
 
