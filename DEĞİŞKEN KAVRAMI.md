@@ -14,9 +14,6 @@ Bir değişken asla sayı ile başlamaz fakat sayı ile bitebilir.
 Örnek: 12numara="okulNo" ->   Yanlış
        numara12="okulNo" ->   Doğru
 
-# Python'da bir değişken tanımlama
-sayi = 10
-isim = "Ali"
 # Türler
 Değişkenlerin farklı türleri vardır:
 Tamsayı (integer): Tam sayıların verilerini temsil eder.
