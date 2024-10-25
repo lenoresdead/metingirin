@@ -11,8 +11,6 @@ Bir değişken asla sayı ile başlamaz fakat sayı ile bitebilir.
 Örnek: 12numara="okulNo" ->   Yanlış
        numara12="okulNo" ->   Doğru
 
-# Kullanım
-Değişkenler, program içerisinde veri tutmak, hesaplamalar yapmak ve sonuçları saklamak için kullanılır. Örneğin, bir kullanıcının girdiği sayıyı saklamak için bir değişken oluşturabilirsiniz.
 #  Değişken Tanımlama
 Değişken tanımlarken, dilin kurallarına göre bir isim verilir
 # Python'da bir değişken tanımlama
