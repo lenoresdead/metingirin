@@ -1,14 +1,16 @@
 # DEGISKEN KAVRAMI
+# Tanım
 Yazılım dilinde değişken, bir değer saklamak için kullanılan bir isimlendirilmiş alan veya bellek parçasıdır. Değişkenler, programların çalışması sırasında farklı değerleri tutmak ve bu değerlere erişmek için kullanılır. Bizlerin günlük hayattaki her bir bilgisi, dijital ortamda veri olarak isimlendirilmektedir. Bu veriler programlama dillerinde sabit olarak tanımlanmaktadır. Ancak, eğer bu veriler ile programlama dillerinde depolama işlemi yapılması veya çeşitli işlemler gerçekleştirilmesi isteniyorsa, değişkenden yararlanmamız gereklidir.
 
-Değişkenler, programlama dillerinde verileri depolamamıza olanak sağlayan yapılardır. Örneğin; bir isim, sayı veya herhangi bilgiyi Python'da depolamak istiyorsak değişken oluşturmamız ve istenilen veriyi değişkende tanımlamamız gereklidir. Tabii ki değişkenleri oluşturabilmemiz için yazım kurallarına dikkat etmemiz gerekiyor.
+# Kullanım
+Değişkenler, program içerisinde veri tutmak, hesaplamalar yapmak ve sonuçları saklamak için kullanılır. Örneğin, bir kullanıcının girdiği sayıyı saklamak için bir değişken oluşturabilirsiniz. Değişkenler, programlama dillerinde verileri depolamamıza olanak sağlayan yapılardır. Örneğin; bir isim, sayı veya herhangi bilgiyi Python'da depolamak istiyorsak değişken oluşturmamız ve istenilen veriyi değişkende tanımlamamız gereklidir. Tabii ki değişkenleri oluşturabilmemiz için yazım kurallarına dikkat etmemiz gerekiyor.
 
 Değişkene veri atama işlemi yapmak istersek değişken yazıp eşittir kullanmamız gerekir.
 Örnek: degisken="sayidegeri"
-Bir değişken asla sayı ile başlamaz fakat sayı ile bitebilir 
+Bir değişken asla sayı ile başlamaz fakat sayı ile bitebilir.
+Örnek: 12numara="okulNo" ->   Yanlış
+       numara12="okulNo" ->   Doğru
 
-# Tanım
-Değişkenler, belirli bir türdeki (örneğin, tamsayı, ondalıklı sayı, metin) verileri saklayabilen isimli yapılar olarak tanımlanır.
 # Kullanım
 Değişkenler, program içerisinde veri tutmak, hesaplamalar yapmak ve sonuçları saklamak için kullanılır. Örneğin, bir kullanıcının girdiği sayıyı saklamak için bir değişken oluşturabilirsiniz.
 #  Değişken Tanımlama
