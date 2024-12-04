@@ -83,7 +83,7 @@ isim="sise"
 Kaynakça: Yılmaz ALACA ve Emine YALÇIN, Görüntü İşleme
 ChatGPT
 
-Daha fazla örnek için py dosyalarına bakınız.
+[Daha fazla örnek için py dosyalarına bakınız.](https://github.com/lenoresdead/metingirin/blob/c049da7cbf1114b96d7f6591915ed7792e67647d/degiskenornek.py)
 
 
 
