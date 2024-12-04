@@ -32,8 +32,6 @@ Python'da dört işlem ve daha farklı matematiksel işlemleri yapabilmek için 
 "!=" soldaki verinin sağdaki veriye eşit olmama durumunu değerlendirir.Eğerse, True, değilse False değerini verir.
 
 
-[Örnekler için tıklayınız.](https://github.com/lenoresdead/metingirin/blob/b91c23eadebea55e992a589d97ac915d47aae1db/operator%20ornekleri.py)
-
 # MANTIKSAL OPERATÖRLER
 
 # VE BAĞLACI (and)
