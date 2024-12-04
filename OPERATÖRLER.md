@@ -16,6 +16,8 @@ Python'da dört işlem ve daha farklı matematiksel işlemleri yapabilmek için 
 
 "%" bölme işlemlerindeki kalan için kullanılır.
 
+[Örnekler için tıklayınız.](https://github.com/lenoresdead/metingirin/blob/64be51d7c26b3e234bffcd24d1c1aa711e90777d/operator%20ornekleri.py)
+
 # KIYASLAMA OPERATÖRLERİ
 2 farklı veri ya da değişken arasında kıyas işlemleri yapmak amacıyla kullanılan operatörlerdir.
 
