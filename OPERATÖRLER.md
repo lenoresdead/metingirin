@@ -70,6 +70,8 @@ not 0=1
 
 not 1=0
 
+[Örnekler için tıklayınız.](https://github.com/ebrarrkaya/mantiksal/blob/591ce4c01870c7a1eeee9482664140ef7f4bbab8/mantik.py)
+
 # MANTIKSAL VERİ TANIMLAMA
 Mantıksal verilerde herhangi bir veri türü mantıksal olarak tanımlanabilir.Bununla birlikte boş olan her veri türünün mantıksal karşılığı False'dur.Dolu olan veri türlerinin karşılığı ise True'dur.
 
@@ -84,4 +86,6 @@ Mantıksal verilerde herhangi bir veri türü mantıksal olarak tanımlanabilir.
 [1,2,3]=>True
 
 []=>False
+
+[Örnekler için tıklayınız.](https://github.com/ebrarrkaya/mantiksal/blob/591ce4c01870c7a1eeee9482664140ef7f4bbab8/mantiksaloperatorler.py)
 
